@@ -9,9 +9,9 @@
 *.cdn.loginradius.com 
 
 *.lenovo.evyy.net
-*.www.ojrq.net
+*.ojrq.net
 
-*.www.kqzyfj.com
+*.kqzyfj.com
 
 *.tmx.td.com
 
@@ -44,28 +44,28 @@
 
 *.searchad-phinf.pstatic.net
 *.events.launchdarkly.com
-*.www.googletagmanager.com
+*.googletagmanager.com
 
-*.www.qksrv.net
-*.www.jdoqocy.com
-*.www.kqzyfj.com
-*.www.dpbolvw.net
-*.www.tkqlhce.com
-*.www.anrdoezrs.net
+*.qksrv.net
+*.jdoqocy.com
+*.kqzyfj.com
+*.dpbolvw.net
+*.tkqlhce.com
+*.anrdoezrs.net
 *.linksynergy.com
 *.clickserve.cc-dt.com
-*.www.pntrs.com
-*.www.gopjn.com
-*.www.pntra.com
-*.www.pjtra.com
-*.www.pjatr.com
-*.www.pntrac.com
+*.pntrs.com
+*.gopjn.com
+*.pntra.com
+*.pjtra.com
+*.pjatr.com
+*.pntrac.com
 *.quinst.com
 *.avantlink.com
-*.www.awin1.com
+*.awin1.com
 *.aos.prf.hn
-*.www.bluenile.ca
-*.www.avantlink.ca
+*.bluenile.ca
+*.avantlink.ca
 *.prf.hn
 *.go.redirectingat.com
 *.levexis.com
