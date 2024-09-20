@@ -1,84 +1,83 @@
-!!!!! ALLOWLIST
 # TIMHORTONS
-||cdn-settings.segment.com^
-||api.segment.io^
-||sdk.split.io^
-||js.pusher.com^
-||ablink.loyal.timhortons.ca^
-||nativesdks.mparticle.com^
-||api2.branch.io^
+cdn-settings.segment.com
+api.segment.io
+sdk.split.io
+js.pusher.com
+ablink.loyal.timhortons.ca
+nativesdks.mparticle.com
+api2.branch.io
 # MYSURREY
-||cdn.loginradius.com^ 
+cdn.loginradius.com 
 # LENOVO
-||lenovo.evyy.net^
-||www.ojrq.net^
+lenovo.evyy.net
+www.ojrq.net
 # SOURCE
-||www.kqzyfj.com^
+www.kqzyfj.com
 # TD
-||tmx.td.com^
+tmx.td.com
 # EDDIEBAUER
-||eddiebauerca.pxf.io^
+eddiebauerca.pxf.io
 # SUNLIFE
-||tags.tiqcdn.com^
+tags.tiqcdn.com
 # MATCHWORNSHIRT
-||clair.iad-03.braze.com^
-||cdn.segment.com^
+clair.iad-03.braze.com
+cdn.segment.com
 # DAZN
-||cdn-gl.imrworldwide.com^
-||4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.cws.conviva.com^
-||imasdk.googleapis.com^
-||errors.nmrodam.com^
-||urbanairship.com^
-||conviva.com^
-||indazn.com^
-||nmrodam.com^
-||cdn.optimizely.com^
-||secure-eu.imrworldwide.com^
+cdn-gl.imrworldwide.com
+4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.cws.conviva.com
+imasdk.googleapis.com
+errors.nmrodam.com
+urbanairship.com
+conviva.com
+indazn.com
+nmrodam.com
+cdn.optimizely.com
+secure-eu.imrworldwide.com
 # STUDENTBEANS
-||e.customeriomail.co^
-||fave.co^
-||go.skimresources.com^
-||data.digital.costco.ca^
+e.customeriomail.co
+fave.co
+go.skimresources.com
+data.digital.costco.ca
 # FMK
-||fmkorea.com^
+fmkorea.com
 # TWITTER
-||t.co^
+t.co
 # OTHERS
-||searchad-phinf.pstatic.net^
-||events.launchdarkly.com^
-||www.googletagmanager.com^
+searchad-phinf.pstatic.net
+events.launchdarkly.com
+www.googletagmanager.com
 # AFFILIATE LINKS
-||www.qksrv.net^*
-||www.jdoqocy.com^*
-||www.kqzyfj.com^*
-||www.dpbolvw.net^*
-||www.tkqlhce.com^*
-||www.anrdoezrs.net^*
-||linksynergy.com^*
-||clickserve.cc-dt.com^*
-||www.pntrs.com^*
-||www.gopjn.com^*
-||www.pntra.com^*
-||www.pjtra.com^*
-||www.pjatr.com^*
-||www.pntrac.com^*
-||quinst.com^*
-||avantlink.com^*
-||www.awin1.com^*
-||aos.prf.hn^*
-||www.bluenile.ca^*
-||www.avantlink.ca^*
-||prf.hn^*
-||go.redirectingat.com^*
-||levexis.com^*
-||dotomi.com^*
-||emjcd.com^*
-||mplxtms.com^*
-||atdmt.com^*
-||ojrq.net^*
-||evyy.net^*
-||agkn.com^*
-||cj.com^*
-||netmng.com^*
-||pxf.io^*
-||krxd.net^*
+www.qksrv.net*
+www.jdoqocy.com*
+www.kqzyfj.com*
+www.dpbolvw.net*
+www.tkqlhce.com*
+www.anrdoezrs.net*
+linksynergy.com*
+clickserve.cc-dt.com*
+www.pntrs.com*
+www.gopjn.com*
+www.pntra.com*
+www.pjtra.com*
+www.pjatr.com*
+www.pntrac.com*
+quinst.com*
+avantlink.com*
+www.awin1.com*
+aos.prf.hn*
+www.bluenile.ca*
+www.avantlink.ca*
+prf.hn*
+go.redirectingat.com*
+levexis.com*
+dotomi.com*
+emjcd.com*
+mplxtms.com*
+atdmt.com*
+ojrq.net*
+evyy.net*
+agkn.com*
+cj.com*
+netmng.com*
+pxf.io*
+krxd.net*
